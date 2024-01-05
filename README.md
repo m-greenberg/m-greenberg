@@ -1,1 +1,1 @@
-Placeholder README.md
+This GitHub account belongs to Max Greenberg, a PhD student in Economics at the University of Massachusetts Amherst. For a fuller personal profile, including contact information, please visit [my website](www.max-greenberg.com).
